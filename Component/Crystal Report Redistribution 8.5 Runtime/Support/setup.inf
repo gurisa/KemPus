@@ -1,0 +1,77 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Wed Sep 24 19:49:52 2014           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.0600 (11/22/96)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,CRDeploy.CAB
+[file list]
+1,0,Setup.Lst,7564
+1,0,setup.exe,139776
+1,1,CRDeploy.exe,28672
+1,1,msvbvm60.dll,1392671
+1,1,OLEAUT32.DLL,598288
+1,1,OLEPRO32.DLL,164112
+1,1,ASYCFILT.DLL,147728
+1,1,STDOLE2.TLB,17920
+1,1,COMCAT.DLL,22288
+1,1,Crystl32.OCX,847324
+1,1,crviewer.dll,664576
+1,1,COMDLG32.OCX,152848
+1,1,SETUP1.EXE,249856
+1,1,VB6STKIT.DLL,101888
+1,1,ST6UNST.EXE,73216
+1,1,cpeaut32.dll,442368
+1,1,crpe32.dll,4587577
+1,1,Implode.dll,17920
+1,1,Crpaig80.dll,618496
+1,1,MSVCRT.DLL,278581
+1,1,mfc42.dll,1028096
+1,1,Crxlat32.dll,24576
+1,1,p2bdao.dll,94208
+1,1,p2bxbse.dll,249856
+1,1,p2ctdao.dll,53248
+1,1,p2irdao.dll,65536
+1,1,p2sifmx.dll,167936
+1,1,P2smon.dll,163840
+1,1,p2sodbc.dll,286720
+1,1,p2sora7.dll,167936
+1,1,p2ssql.dll,168000
+1,1,p2ssyb10.dll,159744
+1,1,p2soledb.dll,204800
+1,1,u2ddisk.dll,28672
+1,1,u2dmapi.dll,40960
+1,1,u2dnotes.dll,53248
+1,1,u2dpost.dll,102400
+1,1,u2dvim.dll,57344
+1,1,u2dapp.dll,28672
+1,1,u2fcr.dll,28672
+1,1,u2fhtml.dll,45056
+1,1,u2fodbc.dll,49152
+1,1,u2frec.dll,36864
+1,1,crxf_rtf.dll,200755
+1,1,u2fsepv.dll,36864
+1,1,u2ftext.dll,90112
+1,1,u2fwks.dll,40960
+1,1,u2fwordw.dll,106496
+1,1,u2fxls.dll,212992
+1,1,crxf_pdf.dll,270336
+1,1,u25dts.dll,24576
+1,1,u2l2000.dll,24576
+1,1,u2lcom.dll,45056
+1,1,u2ldts.dll,24576
+1,1,u2lsamp1.dll,24576
+1,1,u252000.dll,24576
+1,1,SSCSDK80.DLL,1163264
+1,1,msvcp60.dll,413696
+1,1,msvcirt.dll,54784
+1,1,craxdrt.dll,5152826
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Wed Sep 24 19:49:52 2014           **
+;**                                                                **
+;*** END ************************************************************
